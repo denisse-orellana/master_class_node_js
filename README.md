@@ -20,7 +20,7 @@ Yarn add nodemon@2.0.4 -D
 
 #### File basis
 
-The new files created as basis for the project were:
+The new files created as basis for the project:
 
 * .env
 * server.js
