@@ -8,7 +8,7 @@ Learning to start the server with Node JS.
 
 The Frameworks used to help build the server were added as it follows:
 
-```
+```console
 Yarn add body-parser@1.19.0
 Yarn add cors@2.8.5
 Yarn add dotenv@8.2.0
@@ -28,7 +28,7 @@ The new files created as basis for the project:
 
 The server is seen in the link: http://Localhost:8001/api, with the command:
 
-```
+```console
 yarn start
 ```
 
